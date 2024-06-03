@@ -1,0 +1,10 @@
+C:\Users\29364192\Desktop\PictureViewerСанталов\bin\Debug\PictureViewerСанталов.exe.config
+C:\Users\29364192\Desktop\PictureViewerСанталов\bin\Debug\PictureViewerСанталов.exe
+C:\Users\29364192\Desktop\PictureViewerСанталов\bin\Debug\PictureViewerСанталов.pdb
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.csproj.AssemblyReference.cache
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.Form1.resources
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.Properties.Resources.resources
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.csproj.GenerateResource.cache
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.csproj.CoreCompileInputs.cache
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.exe
+C:\Users\29364192\Desktop\PictureViewerСанталов\obj\Debug\PictureViewerСанталов.pdb
